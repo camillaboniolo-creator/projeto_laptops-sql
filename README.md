@@ -52,4 +52,3 @@ A análise demonstra que não existe uma relação direta ou proporcional entre 
 
 
 
-Conclusão das Perguntas: 
