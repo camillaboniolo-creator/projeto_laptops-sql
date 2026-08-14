@@ -2,8 +2,11 @@
 
 ## FONTE DE DADOS E CRÉDITO:
 Dataset: Laptop Specs and Latest Price
+
 Origem: Kangle
+
 Volume: ~896 registros com especificações técnicas e métricas de vendas/avaliações.
+
 Link da Fonte: https://www.kaggle.com/datasets/kuchhbhi/latest-laptop-price-list/data
 
 ## OBJETIVO: 
@@ -11,6 +14,7 @@ Analisar o mercado de laptops utilizando PostgreSQL para estruturar uma Polític
 
 ## FERRAMENTAS UTILIZADAS:
 Linguagem: SQL
+
 Gerenciador: PostgreSQL
 
 
