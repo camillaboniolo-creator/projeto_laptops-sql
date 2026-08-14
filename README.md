@@ -20,7 +20,7 @@ O banco de dados foi modelado no PostgreSQL a partir de uma tabela única denomi
 ## CONCLUSÃO: 
 Para que o trabalho fosse produzido foi pensado 6 perguntas, a fim de analisá-las pelo banco de dados e assim respondê-las:
 
-1- QUAIS SÃO AS FAIXAS ORÇAMENTÁRIAS DO MERCADO PARA DEFINIÇÃO DE KITS DE TRABALHO POR NÍVEL DE CARGO?
+1- Quais são as faixas orçamentárias do mercado para definição de kits de trabalho por nível de cargo?
 
 A análise de preços da base de dados revela a estrutura ideal para a política corporativa de aquisição de notebooks, equilibrando custos e a satisfação do colaborador (RH):
 ​Nível Operacional / Básico (< 30k): Possui orçamento médio de 23.557,85, mas conta com apenas 40 modelos no mercado. Representa um risco para o RH, pois a baixa variedade de máquinas de entrada pode gerar lentidão, insatisfação e chamados de TI.
